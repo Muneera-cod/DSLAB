@@ -1,0 +1,4 @@
+name,occ,salary
+muneera,IT job,50000
+afla,IT job,60000
+Muna,Professer,80000

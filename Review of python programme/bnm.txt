@@ -1,0 +1,6 @@
+name,occ,salary
+Vinay,enginear,
+kushal,doctor,700000.0
+Aman,enginear,600000
+Rahul,doctor,400000
+Ramesh,enginear,

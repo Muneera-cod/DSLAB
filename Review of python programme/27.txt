@@ -1,0 +1,5 @@
+ename,profit
+Shyam&Co,-10000
+Ramlal& Bros,10000
+SharmaEnterprises,-5000
+Verma furnitures,15000

@@ -1,0 +1,4 @@
+eid,ename,stipend
+1,muneera,600000
+2,muna,60000
+3,rahul,40000
